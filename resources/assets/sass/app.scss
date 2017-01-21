@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	background-color: #efefef;
+}
+
+.display-flex-center {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.gigantic {
+	color: #545b71;
+	font-size: 6em;
+	font-weight: 700;
+}
